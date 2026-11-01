@@ -7,7 +7,7 @@
 | **Course** | 23I501, Design and Analysis of Algorithms |
 | **Technique** | Divide and conquer (merge sort, inversion counting) |
 | **Language** | Python 3.9+ |
-| **Presentation** | [Watch / download on Google Drive](https://drive.google.com/file/d/1Jnad1sR8zAS14RBSG73Xh1ixmVqkRZrG/view?usp=drive_link) |
+| **Presentation** | [Watch / download on Google Drive](https://drive.google.com/file/d/1Jnad1sR8zAS14RBSG73Xh1ixmVqkRZrG/view?usp=drive_link) (11:37)|
 
 ---
 
